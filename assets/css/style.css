@@ -1276,7 +1276,7 @@ label {
 	background-position: 100% 100%;
 }
 .footer-logo {
-	margin-bottom: 30px;
+	margin-bottom: 4em;
 }
 .footer-text p {
 	margin-bottom: 14px;
@@ -1376,6 +1376,11 @@ label {
 }
 .copyright-text p a{
 	color: #ff5e14;
+}
+.footer-company-logo{
+  margin-top: 1em;
+  margin-bottom:1em;
+  text-align: center;
 }
 /*  12. Breadcrumb */
 .breadcrumb-area {
