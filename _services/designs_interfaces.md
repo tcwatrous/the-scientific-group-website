@@ -1,8 +1,8 @@
 ---
 layout: featured
 title: Designs & interfaces
-image: /assets/img/services/01.jpg
-icon: /assets/img/icons/layer-group-solid.svg
+image: assets/img/services/01.jpg
+icon: assets/img/icons/layer-group-solid.svg
 description: But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete.
 ---
 
@@ -21,7 +21,7 @@ description: But I must explain to you how all this mistaken idea of denouncing 
 <div class="row">
     <div class="col-xl-6 col-lg-12">
         <div class="s-details-img mb-30">
-            <img src="{{site.baseurl}}/assets/img/service/details/01.jpg" alt="tincidunt">
+            <img src="{{site.baseurl}}assets/img/service/details/01.jpg" alt="tincidunt">
         </div>
     </div>
     <div class="col-xl-6 col-lg-12">
