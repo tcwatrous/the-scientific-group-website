@@ -268,7 +268,7 @@ h3 span {
 }
 /* menu-area */
 .menu-area {
-	background: #231F20;
+	background: black;
 }
 .header-logo{
   max-height:80px;
@@ -420,6 +420,16 @@ h3 span {
 	font-size: 14px;
 	color: #878787;
 }
+.footer-handshake {
+  margin-bottom:8px;
+}
+.footer-handshake-text {
+  display: inline;
+  color: white;
+  font-weight: bold;
+  margin: 0 0 0 .5em;
+}
+
 .sticky {
 	left: 0;
 	margin: auto;
@@ -895,6 +905,10 @@ h3 span {
 	background-position: center top;
 	background-size: cover;
 	padding: 100px 0;
+  background-color:#E87722;
+}
+.black-cta-btn {
+  background-color:black;
 }
 .service-box.service-3 {
 	padding: 0;
