@@ -3,10 +3,10 @@
 - text: Home
   url: /
 - text: Approach
-  url: /approach
+  url: approach
 - text: Services
-  url: /our-services
+  url: our-services
 - text: Pages
   url: /
 - text: Contact
-  url: /contact
+  url: contact
