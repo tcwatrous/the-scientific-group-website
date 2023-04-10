@@ -426,8 +426,8 @@ h3 span {
 .footer-handshake-text {
   display: inline;
   color: white;
-  font-weight: bold;
-  margin: 0 0 0 .5em;
+  font-weight:600;
+  font-size:20px;
 }
 
 .sticky {
