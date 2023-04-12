@@ -207,7 +207,10 @@ h3 span {
 .breadcrumb > .active {
 	color: #888;
 }
+/* nav */
+.mean-nav{
 
+}
 /* 2. Header */
 .header-cta {
 	overflow: hidden;
@@ -1309,8 +1312,11 @@ h3 span {
 	background-position: 100% 100%;
 }
 .footer-logo {
-  margin-top: 2em;
 	margin-bottom: 4em;
+}
+.footer-connect-to{
+  margin-top:4em;
+  margin-bottom:2em;
 }
 .footer-text p {
 	margin-bottom: 14px;
