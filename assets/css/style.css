@@ -436,6 +436,10 @@ h3 span {
   font-weight:600;
   font-size:20px;
 }
+.connect-to {
+  margin-top: 4em;
+  margin-bottom: 2em;
+}
 
 .sticky {
 	left: 0;
@@ -1979,13 +1983,28 @@ blockquote {
 
 /* companies pages */
 .company-info.environmental {
-  background-color:#1E7138;
+  background-color:#58905a;
 }
 .cta-area.environmental {
-  background-color:#1E7138;
+  background-color:#58905a;
 }
 .company-cta-btn {
   background-color:rgba(255, 255, 255, .3);
   color:white;
   border: 2px solid white !important;
+}
+
+.approach-quote {
+  font-style: italic;
+  font-weight:100;
+  padding-left:1em;
+  border-left: 4px solid #E87722;
+  margin-bottom:2em;
+}
+.approach-copy > p {
+
+}
+.approach-copy > h3 {
+  font-size:1.5em;
+  text-transform: uppercase;
 }

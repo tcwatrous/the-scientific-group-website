@@ -1,51 +1,39 @@
 ---
-layout: page
+layout: default
 title: Our Approach
 ---
-<!-- about-info -->
-<section class="about-info pt-100">
-    <div class="container">
-        <div class="row">
-            <div class="col-12 text-center">
-                <div class="about-info-text">
-                    <h2>We are Awesome people</h2>
-                    <p>The Scientific Group Difference is solidly based on the collaboration of all nine
-companies. Building on each others strengths, our matrix of companies work
-together to create boundless solutions for all of your needs.</p>
-                </div>
+{% include header.html %}
+<main>
+  <section class="cta-area" style="background-image:url({{site.baseurl}}assets/img/home/approach.jpg);">
+      <div class="container">
+          <div class="row">
+              <div class="col-xl-12 text-center">
+                  <div class="call-to-action white-text">
+                      <br />
+                      <h3 style="margin:2em 0;">Experience the Scientific Group <span>difference.</span></h3>
+                      <br />
+                  </div>
+              </div>
+          </div>
+      </div>
+  </section>
+  <!-- about-area -->
+  <section class="our-approach-area grey-bg pb-60 pt-100">
+      <div class="container">
+          <div class="row">
+            <div class="col approach-copy">
+              <h4 class="approach-quote">The Scientific Group Difference is solidly based on the collaboration of all nine companies. Building on each others strengths, our matrix of companies work together to create boundless solutions for all of your needs.</h4>
+              <h3>Exceeding Customer Expectations</h3>
+              <p>To Scientific, exceeding customer expectations is easy. This is achieved through a comprehensive understanding of our client’s operating conditions and environment, and an appreciation for the welfare of the owners, employees and patrons located at our client facilities. This perspective results in a commitment we make to each client at the start of our relationship, and is supported with a host of documentation and procedures evident before, during and after each service.</p>
+              <h3>Proactive Problem Solving</h3>
+              <p>Proactive problem solving is not as easy to impress upon our clients because we strive to take measures, when on site, to deal with issues encountered before they ever become problems. Our clients learn to appreciate this when they see a drastic drop in problems following Scientific’s first service.</p>
+              <h3>Gaining Client Trust</h3>
+              <p>When a problem is identified, Scientific is there at our clients’ side to immediately resolve the matter. There are countless incidences where the problems were identified by Scientific upon earlier visits, but not as yet dealt with by the client per our prior recommendations. For us, in these situations, it’s not about the “I Told You So,” but it’s about gaining client trust and translating that into reliability for a long lasting relationship.</p>
             </div>
-        </div>
-    </div>
-</section>
-<!-- about-area -->
-<section class="about-area grey-bg pb-60 pt-100">
-    <div class="container">
-        <div class="row">
-            <div class="col-xl-6 col-lg-6 mb-40">
-                <div class="section-title">
-                    <h2>About Us</h2>
-                </div>
-                <div class="about-content">
-                    <p>Donec posuere vulputate arcu. Phasellus accumsan cursus velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci. Phasellus consectetuer vestibulum elit. <br> <br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                </div>
-            </div>
-            <div class="col-xl-6 col-lg-6 mb-20 md-margin">
-                <div class="row">
-                    <div class="col-xl-6 col-md-6 mb-20">
-                        <div class="about-img">
-                            <img src="{{site.baeurl}}assets/img/about/about1.jpg" class="img-fluid" alt="">
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-md-6 mb-20">
-                        <div class="about-img">
-                            <img src="{{site.baseurl}}assets/img/about/about2.jpg" class="img-fluid" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- team-are -->
+          </div>
+      </div>
+  </section>
 
-{% include call_to_action.html %}
+
+  {% include call_to_action.html %}
+</main>
