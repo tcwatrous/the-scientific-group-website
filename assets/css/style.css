@@ -1969,3 +1969,16 @@ blockquote {
 .features-icon img {
 	max-width: 60px;
 }
+
+/* companies pages */
+.company-info.environmental {
+  background-color:#1E7138;
+}
+.cta-area.environmental {
+  background-color:#1E7138;
+}
+.company-cta-btn {
+  background-color:rgba(255, 255, 255, .3);
+  color:white;
+  border: 2px solid white !important;
+}
