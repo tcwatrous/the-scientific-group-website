@@ -1988,10 +1988,49 @@ blockquote {
 .cta-area.environmental {
   background-color:#58905a;
 }
+
+.company-quote{
+  background:#eee;
+}
+.company-quote h4{
+  font-style: italic;
+  font-weight:100;
+  padding-left:1em;
+
+}
+.company-quote-attr {
+  float:right;
+  margin-top:1em;
+  margin-bottom:4em;
+  color:black;
+  font-size:1.25em;
+}
+.company-quote.environmental{
+  border-left: 4px solid #58905a;
+}
+.service {
+  color:black;
+  font-size:1.25em;
+}
+
 .company-cta-btn {
   background-color:rgba(255, 255, 255, .3);
   color:white;
   border: 2px solid white !important;
+}
+.underline-header {
+  margin-bottom:1em;
+}
+.underline-header h2::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  width: 60px;
+  height: 2px;
+  background: #E87722;
+  bottom: -25px;
+  right: 0;
+  margin: auto;
 }
 
 .approach-quote {
@@ -2005,6 +2044,7 @@ blockquote {
 
 }
 .approach-copy > h3 {
+  margin-top:1.5em;
   font-size:1.5em;
   text-transform: uppercase;
 }
