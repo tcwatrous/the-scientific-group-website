@@ -2019,18 +2019,18 @@ blockquote {
   border: 2px solid white !important;
 }
 .underline-header {
-  margin-bottom:1em;
 }
-.underline-header h2::before {
+.underline-header::before {
   content: "";
   position: absolute;
   left: 0;
   width: 60px;
   height: 2px;
-  background: #E87722;
-  bottom: -25px;
+  background:  #58905a;
+  bottom: 0px;
   right: 0;
   margin: auto;
+  margin-bottom:2
 }
 
 .approach-quote {
