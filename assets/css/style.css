@@ -2048,3 +2048,7 @@ blockquote {
   font-size:1.5em;
   text-transform: uppercase;
 }
+
+#slick-slide-control00 {
+  display:none;
+}
