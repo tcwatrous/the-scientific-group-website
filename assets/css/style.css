@@ -2052,3 +2052,61 @@ blockquote {
 #slick-slide-control00 {
   display:none;
 }
+
+
+.company-info.fire-control, .cta-area.fire-control{
+  background-color:#ed8f99;
+}
+.company-quote.fire-control{
+  border-left: 4px solid #ed8f99;
+}
+
+.company-info.construction, .cta-area.construction{
+  background-color:#c3c5c8;
+}
+.company-quote.construction{
+  border-left: 4px solid #c3c5c8;
+}
+
+.company-info.fire-prevention, .cta-area.fire-prevention{
+  background-color:#84aac5;
+}
+.company-quote.fire-prevention{
+  border-left: 4px solid #84aac5;
+}
+.company-info.maintenance, .cta-area.maintenance{
+  background-color:#d4d79b;
+}
+.company-quote.maintenance{
+  border-left: 4px solid #d4d79b;
+}
+.company-info.mechanical, .cta-area.mechanical{
+  background-color:#849aa1;
+}
+.company-quote.mechanical{
+  border-left: 4px solid #849aa1;
+}
+.company-info.mechanical, .cta-area.mechanical{
+  background-color:#849aa1;
+}
+.company-quote.mechanical{
+  border-left: 4px solid #849aa1;
+}
+.company-info.pest-management, .cta-area.pest-management{
+  background-color:#507a84;
+}
+.company-quote.pest-management{
+  border-left: 4px solid #507a84;
+}
+.company-info.restoration, .cta-area.restoration{
+  background-color:#badeeb;
+}
+.company-quote.restoration{
+  border-left: 4px solid #badeeb;
+}
+.company-info.technology, .cta-area.technology{
+  background-color:#fce8b3;
+}
+.company-quote.technology{
+  border-left: 4px solid #fce8b3;
+}
