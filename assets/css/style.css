@@ -2104,7 +2104,7 @@ blockquote {
 .company-quote.restoration{
   border-left: 4px solid #badeeb;
 }
-.company-info.technology, .cta-area.technology{
+.company-info.technology, .cta-area.technology, .technology.underline-header::before {
   background-color:#f6b637;
 }
 .company-quote.technology{
