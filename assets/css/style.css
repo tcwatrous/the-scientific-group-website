@@ -2026,7 +2026,7 @@ blockquote {
   left: 0;
   width: 60px;
   height: 2px;
-  background:  #58905a;
+  background:  #333;
   bottom: 0px;
   right: 0;
   margin: auto;
@@ -2054,11 +2054,11 @@ blockquote {
 }
 
 
-.company-info.fire-control, .cta-area.fire-control{
-  background-color:#ed8f99;
+.company-info.fire-control, .cta-area.fire-control, .fire-control.underline-header::before {
+  background-color:#e36673;
 }
 .company-quote.fire-control{
-  border-left: 4px solid #ed8f99;
+  border-left: 4px solid #e36673;
 }
 
 .company-info.construction, .cta-area.construction{
