@@ -2011,6 +2011,7 @@ blockquote {
 .service {
   color:black;
   font-size:1.25em;
+  line-height:30px;
 }
 
 .company-cta-btn {
