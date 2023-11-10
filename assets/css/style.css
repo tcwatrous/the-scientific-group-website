@@ -2100,6 +2100,7 @@ blockquote {
 .company-info.pest-management, .cta-area.pest-management{
   background-color:#70a9b8;
 }
+
 .company-quote.pest-management{
   border-left: 4px solid #507a84;
 }
@@ -2114,4 +2115,13 @@ blockquote {
 }
 .company-quote.technology{
   border-left: 4px solid #f6b637;
+}
+
+/* a59bb8 */
+.company-info.culinary, .cta-area.culinary{
+  background-color:#a59bb8;
+}
+
+.company-quote.culinary{
+  border-left: 4px solid #a59bb8;
 }
