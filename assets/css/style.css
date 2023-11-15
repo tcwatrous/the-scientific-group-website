@@ -1481,13 +1481,14 @@ h3 span {
 .contact-person p {
 	margin-bottom: 10px;
 }
-.contact-person a {
+.contact-person a, .contact-person-no-link{
 	font-size: 14px;
 	color: #E87722;
 }
-.contact-person a i {
+.contact-person a i, .contact-person p i  {
 	padding-right: 5px;
 }
+
 .maps {
 	height: 420px;
 }
