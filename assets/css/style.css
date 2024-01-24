@@ -2085,6 +2085,12 @@ blockquote {
 .company-quote.fire-prevention{
   border-left: 4px solid #84aac5;
 }
+.company-info.janitorial, .cta-area.janitorial{
+  background-color:#D0AD75;
+}
+.company-quote.janitorial{
+  border-left: 4px solid #D0AD75;
+}
 .company-info.maintenance, .cta-area.maintenance{
   background-color:#d4d79b;
 }
