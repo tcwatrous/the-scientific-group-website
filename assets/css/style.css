@@ -2116,7 +2116,7 @@ blockquote {
 .company-quote.pest-management{
   border-left: 4px solid #507a84;
 }
-.company-info.restoration, .cta-area.restoration{
+.company-info.restoration, .cta-area.restoration, {
   background-color:#badeeb;
 }
 .company-quote.restoration{
