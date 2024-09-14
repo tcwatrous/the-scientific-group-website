@@ -2091,6 +2091,12 @@ blockquote {
 .company-quote.janitorial{
   border-left: 4px solid #D0AD75;
 }
+.company-info.electrical, .cta-area.electrical{
+  background-color:#29712a;
+}
+.company-quote.electrical{
+  border-left: 4px solid #ffdd7f;
+}
 .company-info.maintenance, .cta-area.maintenance{
   background-color:#d4d79b;
 }
