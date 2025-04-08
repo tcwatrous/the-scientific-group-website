@@ -2143,3 +2143,11 @@ blockquote {
 .company-quote.culinary{
   border-left: 4px solid #a59bb8;
 }
+
+.company-info.plumbing, .cta-area.plumbing{
+	background-color:#6ad1e3 ;
+  }
+  
+  .company-quote.plumbing{
+	border-left: 4px solid #6ad1e3 ;
+  }
